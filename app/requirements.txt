@@ -2,7 +2,7 @@ Fiona==1.8.6
 geopandas==0.5.1
 numpy
 pandas
-Pillow==8.1.1
+Pillow==8.2.0
 pyodbc
 pyproj==1.9.6
 Shapely==1.7.0
